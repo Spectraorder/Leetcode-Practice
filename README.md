@@ -5,6 +5,6 @@
 
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/): [IDEA Project](Solutions/SearchInsertPosition)
 
-[36. Rotate List](https://leetcode.com/problems/rotate-list/): [IDEA Project](Solutions/RotateList)
+[61. Rotate List](https://leetcode.com/problems/rotate-list/): [IDEA Project](Solutions/RotateList)
 
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)

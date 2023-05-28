@@ -13,4 +13,6 @@
 
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)
 
+[1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
+
 [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/): [IDEA Project](Solutions/NumberofSeniorCitizens)

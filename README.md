@@ -10,3 +10,5 @@
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)
 
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)
+
+[2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/): [IDEA Project](Solutions/StoneGameII)

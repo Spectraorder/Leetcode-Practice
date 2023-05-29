@@ -19,4 +19,6 @@
 
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
+[1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)
+
 [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/): [IDEA Project](Solutions/NumberofSeniorCitizens)

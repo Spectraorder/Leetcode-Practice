@@ -3,6 +3,8 @@
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/): [IDEA Project](Solutions/TwoSum)
 
+[15. 3Sum](https://leetcode.com/problems/3sum/): [IDEA Project](Solutions/ThreeSum)
+
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/): [IDEA Project](Solutions/SearchInsertPosition)
 
 [61. Rotate List](https://leetcode.com/problems/rotate-list/): [IDEA Project](Solutions/RotateList)

@@ -7,6 +7,8 @@
 
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/): [IDEA Project](Solutions/SearchInsertPosition)
 
+[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/): [IDEA Project](Solutions/LengthofLastWord)
+
 [61. Rotate List](https://leetcode.com/problems/rotate-list/): [IDEA Project](Solutions/RotateList)
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)

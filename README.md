@@ -17,6 +17,8 @@
 
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)
 
+[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/): [IDEA Project](Solutions/LongestCommonSubsequence)
+
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)

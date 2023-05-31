@@ -19,6 +19,8 @@
 
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/): [IDEA Project](Solutions/LongestCommonSubsequence)
 
+[1396. Design Underground System](https://leetcode.com/problems/design-underground-system/): [IDEA Project](Solutions/DesignUndergroundSystem)
+
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)

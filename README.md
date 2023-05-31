@@ -13,6 +13,8 @@
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)
 
+[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): [IDEA Project](Solutions/RangeSumQueryImmutable)
+
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)

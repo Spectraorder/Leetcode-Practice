@@ -5,6 +5,8 @@
 
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): [IDEA Project](Solutions/AddTwoNumbers)
 
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/): [IDEA Project](Solutions/LongestCommonPrefix)
+
 [15. 3Sum](https://leetcode.com/problems/3sum/): [IDEA Project](Solutions/ThreeSum)
 
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [IDEA Project](Solutions/ValidParentheses)

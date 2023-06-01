@@ -7,6 +7,8 @@
 
 [15. 3Sum](https://leetcode.com/problems/3sum/): [IDEA Project](Solutions/ThreeSum)
 
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [IDEA Project](Solutions/ValidParentheses)
+
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/): [IDEA Project](Solutions/SearchInsertPosition)
 
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/): [IDEA Project](Solutions/LengthofLastWord)

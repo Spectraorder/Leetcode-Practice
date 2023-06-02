@@ -21,6 +21,8 @@
 
 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): [IDEA Project](Solutions/RangeSumQueryImmutable)
 
+[420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/): [IDEA Project](Solutions/StrongPasswordChecker)
+
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)

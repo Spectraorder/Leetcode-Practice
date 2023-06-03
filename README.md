@@ -1,9 +1,15 @@
 # LeetCode Practice
 **Problems are shown in problem set order:**
 
+## [**1-500**](#1-500)  [**501-1000**](#501-1000)  [**1001-1500**](#1001-1500)  [**1501-2000**](#1501-2000)  [**1501-2000**](#1501-2000)  [**2501-3000**](#1501-2000) 
+
+## 1-500
+
 [1. Two Sum](https://leetcode.com/problems/two-sum/): [IDEA Project](Solutions/TwoSum)
 
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): [IDEA Project](Solutions/AddTwoNumbers)
+
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/): [IDEA Project](Solutions/ContainerWithMostWater)
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/): [IDEA Project](Solutions/LongestCommonPrefix)
 
@@ -23,9 +29,13 @@
 
 [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/): [IDEA Project](Solutions/StrongPasswordChecker)
 
+## 501-1000
+
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)
+
+## 1001-1500
 
 [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/): [IDEA Project](Solutions/ShortestPathinBinaryMatrix)
 
@@ -37,12 +47,18 @@
 
 [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/): [IDEA Project](Solutions/ThekthFactorofn)
 
+## 1501-2000
+
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)
 
+## 2001-2500
+
 [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/): [IDEA Project](Solutions/DetonatetheMaximumBombs)
 
 [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/): [IDEA Project](Solutions/CountUnguardedCellsintheGrid)
+
+## 2501-3000
 
 [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/): [IDEA Project](Solutions/NumberofSeniorCitizens)

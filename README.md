@@ -55,6 +55,8 @@
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)
 
+[1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/): [IDEA Project](Solutions/MaximumAbsoluteSumofAnySubarray)
+
 ## 2001-2500
 
 [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/): [IDEA Project](Solutions/DetonatetheMaximumBombs)

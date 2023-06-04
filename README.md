@@ -9,6 +9,8 @@
 
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): [IDEA Project](Solutions/AddTwoNumbers)
 
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/): [IDEA Project](Solutions/PalindromeNumber)
+
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/): [IDEA Project](Solutions/ContainerWithMostWater)
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/): [IDEA Project](Solutions/LongestCommonPrefix)
@@ -42,6 +44,8 @@
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)
 
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/): [IDEA Project](Solutions/LongestCommonSubsequence)
+
+[1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/): [IDEA Project](Solutions/MaximumProductofSplittedBinaryTree)
 
 [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/): [IDEA Project](Solutions/TimeNeededtoInformAllEmployees)
 

@@ -33,6 +33,8 @@
 
 ## 501-1000
 
+[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/): [IDEA Project](Solutions/NumberofProvinces)
+
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)

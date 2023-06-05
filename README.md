@@ -47,6 +47,8 @@
 
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/): [IDEA Project](Solutions/LongestCommonSubsequence)
 
+[1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/): [IDEA Project](Solutions/CheckIfItIsaStraightLine)
+
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/): [IDEA Project](Solutions/MaximumProductofSplittedBinaryTree)
 
 [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/): [IDEA Project](Solutions/TimeNeededtoInformAllEmployees)

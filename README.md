@@ -67,6 +67,8 @@
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)
 
+[1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/): [IDEA Project](Solutions/WidestVerticalAreaBetweenTwoPointsContainingNoPoints)
+
 [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/): [IDEA Project](Solutions/MaximumAbsoluteSumofAnySubarray)
 
 ## 2001-2500

@@ -61,6 +61,8 @@
 
 ## 1501-2000
 
+[1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/): [IDEA Project](Solutions/CanMakeArithmeticProgressionFromSequence)
+
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)

@@ -19,6 +19,8 @@
 
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [IDEA Project](Solutions/ValidParentheses)
 
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [IDEA Project](Solutions/RemoveDuplicatesfromSortedArray)
+
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/): [IDEA Project](Solutions/SearchInsertPosition)
 
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/): [IDEA Project](Solutions/LengthofLastWord)

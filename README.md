@@ -57,6 +57,8 @@
 
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/): [IDEA Project](Solutions/MaximumProductofSplittedBinaryTree)
 
+[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/): [IDEA Project](Solutions/CountNegativeNumbersinaSortedMatrix)
+
 [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/): [IDEA Project](Solutions/TimeNeededtoInformAllEmployees)
 
 [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/): [IDEA Project](Solutions/DesignUndergroundSystem)

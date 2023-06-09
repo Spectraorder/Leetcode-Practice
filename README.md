@@ -45,6 +45,8 @@
 
 [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/): [IDEA Project](Solutions/MyCalendarII)
 
+[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/): [IDEA Project](Solutions/FindSmallestLetterGreaterThanTarget)
+
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)
 
 ## 1001-1500

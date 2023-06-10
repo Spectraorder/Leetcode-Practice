@@ -85,6 +85,8 @@
 
 [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/): [IDEA Project](Solutions/MaximumAbsoluteSumofAnySubarray)
 
+[1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/): [IDEA Project](Solutions/MaximumValueataGivenIndexinaBoundedArray)
+
 ## 2001-2500
 
 [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/): [IDEA Project](Solutions/DetonatetheMaximumBombs)

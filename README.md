@@ -91,6 +91,8 @@
 
 [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/): [IDEA Project](Solutions/DetonatetheMaximumBombs)
 
+[2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/): [IDEA Project](Solutions/WateringPlantsII)
+
 [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/): [IDEA Project](Solutions/CountUnguardedCellsintheGrid)
 
 [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/): [IDEA Project](Solutions/LongestCycleinaGraph)

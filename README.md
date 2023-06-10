@@ -99,4 +99,6 @@
 
 ## 2501-3000
 
+[2673. Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/): [IDEA Project](Solutions/MakeCostsofPathsEqualinaBinaryTree)
+
 [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/): [IDEA Project](Solutions/NumberofSeniorCitizens)

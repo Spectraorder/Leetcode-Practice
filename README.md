@@ -59,6 +59,8 @@
 
 ## 1001-1500
 
+[1061. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/): [IDEA Project](Solutions/MaximumLevelSumofaBinaryTree)
+
 [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/): [IDEA Project](Solutions/ShortestPathinBinaryMatrix)
 
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)

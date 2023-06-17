@@ -71,6 +71,8 @@
 
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/): [IDEA Project](Solutions/SnapshotArray)
 
+[1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/): [IDEA Project](Solutions/MakeArrayStrictlyIncreasing)
+
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/): [IDEA Project](Solutions/CheckIfItIsaStraightLine)
 
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/): [IDEA Project](Solutions/MinimumFlipstoMakeaORbEqualtoc)

@@ -115,6 +115,8 @@
 
 [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/): [IDEA Project](Solutions/EqualRowandColumnPairs)
 
+[2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/): [IDEA Project](Solutions/NumberofIncreasingPathsinaGrid)
+
 [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/): [IDEA Project](Solutions/LongestCycleinaGraph)
 
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/): [IDEA Project](Solutions/OptimalPartitionofString)

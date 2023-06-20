@@ -109,6 +109,8 @@
 
 ## 2001-2500
 
+[2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/): [IDEA Project](Solutions/KRadiusSubarrayAverages)
+
 [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/): [IDEA Project](Solutions/DetonatetheMaximumBombs)
 
 [2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/): [IDEA Project](Solutions/WateringPlantsII)

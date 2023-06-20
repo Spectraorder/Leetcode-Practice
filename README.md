@@ -37,6 +37,8 @@
 
 [268. Missing Number](https://leetcode.com/problems/missing-number/): [IDEA Project](Solutions/MissingNumber)
 
+[274. H-Index](https://leetcode.com/problems/h-index/): [IDEA Project](Solutions/HIndex)
+
 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): [IDEA Project](Solutions/RangeSumQueryImmutable)
 
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/): [IDEA Project](Solutions/InsertDeleteGetRandomO1)

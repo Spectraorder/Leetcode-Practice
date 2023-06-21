@@ -127,6 +127,8 @@
 
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/): [IDEA Project](Solutions/OptimalPartitionofString)
 
+[2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/): [IDEA Project](Solutions/MinimumCosttoMakeArrayEqual)
+
 ## 2501-3000
 
 [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/): [IDEA Project](Solutions/TakeGiftsFromtheRichestPile)

@@ -53,6 +53,8 @@
 
 [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/): [IDEA Project](Solutions/NumberofProvinces)
 
+[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/): [IDEA Project](Solutions/BestTimetoBuyandSellStockwithTransactionFee)
+
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
 [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/): [IDEA Project](Solutions/MyCalendarII)

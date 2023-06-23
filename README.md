@@ -1,7 +1,7 @@
 # LeetCode Practice
 **Problems are shown in problem set order:**
 
-## [**1-500**](#1-500)  [**501-1000**](#501-1000)  [**1001-1500**](#1001-1500)  [**1501-2000**](#1501-2000)  [**1501-2000**](#1501-2000)  [**2501-3000**](#1501-2000) 
+## [**1-500**](#1-500)  [**501-1000**](#501-1000)  [**1001-1500**](#1001-1500)  [**1501-2000**](#1501-2000)  [**2001-2500**](#2001-2500)  [**2501-3000**](#2501-3000) 
 
 ## 1-500
 
@@ -66,6 +66,8 @@
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)
 
 ## 1001-1500
+
+[1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/): [IDEA Project](Solutions/LongestArithmeticSubsequence)
 
 [1061. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/): [IDEA Project](Solutions/MaximumLevelSumofaBinaryTree)
 

@@ -65,6 +65,8 @@
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)
 
+[956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/): [IDEA Project](Solutions/TallestBillboard)
+
 ## 1001-1500
 
 [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/): [IDEA Project](Solutions/LongestArithmeticSubsequence)

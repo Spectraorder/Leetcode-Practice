@@ -107,6 +107,8 @@
 
 [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/): [IDEA Project](Solutions/NumberofWaystoReorderArraytoGetSameBST)
 
+[1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/): [IDEA Project](Solutions/CountAllPossibleRoutes)
+
 [1599. Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/): [IDEA Project](Solutions/MaximumProfitofOperatingaCentennialWheel)
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)

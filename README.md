@@ -141,6 +141,8 @@
 
 [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/): [IDEA Project](Solutions/MinimumCosttoMakeArrayEqual)
 
+[2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/): [IDEA Project](Solutions/TotalCosttoHireKWorkers)
+
 ## 2501-3000
 
 [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/): [IDEA Project](Solutions/TakeGiftsFromtheRichestPile)

@@ -45,6 +45,8 @@
 
 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): [IDEA Project](Solutions/RangeSumQueryImmutable)
 
+[373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/): [IDEA Project](Solutions/FindKPairswithSmallestSums)
+
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/): [IDEA Project](Solutions/InsertDeleteGetRandomO1)
 
 [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/): [IDEA Project](Solutions/StrongPasswordChecker)

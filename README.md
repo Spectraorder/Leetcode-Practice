@@ -135,6 +135,8 @@
 
 [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/): [IDEA Project](Solutions/CountUnguardedCellsintheGrid)
 
+[2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/): [IDEA Project](Solutions/FairDistributionofCookies)
+
 [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/): [IDEA Project](Solutions/EqualRowandColumnPairs)
 
 [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/): [IDEA Project](Solutions/NumberofIncreasingPathsinaGrid)

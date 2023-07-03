@@ -65,6 +65,8 @@
 
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/): [IDEA Project](Solutions/FindSmallestLetterGreaterThanTarget)
 
+[859. Buddy Strings](https://leetcode.com/problems/buddy-strings/): [IDEA Project](Solutions/BuddyStrings)
+
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/): [IDEA Project](Solutions/MonotonicArray)
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)

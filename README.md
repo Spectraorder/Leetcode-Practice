@@ -105,6 +105,8 @@
 
 [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/): [IDEA Project](Solutions/ThekthFactorofn)
 
+[1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/): [IDEA Project](Solutions/LongestSubarrayof1sAfterDeletingOneElement)
+
 ## 1501-2000
 
 [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/): [IDEA Project](Solutions/CanMakeArithmeticProgressionFromSequence)

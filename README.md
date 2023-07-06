@@ -39,6 +39,8 @@
 
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/): [IDEA Project](Solutions/RotateArray)
 
+[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [IDEA Project](Solutions/MinimumSizeSubarraySum)
+
 [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/): [IDEA Project](Solutions/SummaryRanges)
 
 [268. Missing Number](https://leetcode.com/problems/missing-number/): [IDEA Project](Solutions/MissingNumber)

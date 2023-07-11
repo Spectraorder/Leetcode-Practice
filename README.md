@@ -73,6 +73,8 @@
 
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/): [IDEA Project](Solutions/BuddyStrings)
 
+[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/): [IDEA Project](Solutions/AllNodesDistanceKinBinaryTree)
+
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/): [IDEA Project](Solutions/MonotonicArray)
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)

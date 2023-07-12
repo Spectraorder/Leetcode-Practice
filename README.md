@@ -71,6 +71,8 @@
 
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/): [IDEA Project](Solutions/FindSmallestLetterGreaterThanTarget)
 
+[802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/): [IDEA Project](Solutions/FindEventualSafeStates)
+
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/): [IDEA Project](Solutions/BuddyStrings)
 
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/): [IDEA Project](Solutions/AllNodesDistanceKinBinaryTree)

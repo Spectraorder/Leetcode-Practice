@@ -93,6 +93,8 @@
 
 [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/): [IDEA Project](Solutions/ShortestPathinBinaryMatrix)
 
+[1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/): [IDEA Project](Solutions/SmallestSufficientTeam)
+
 [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/): [IDEA Project](Solutions/StoneGameII)
 
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/): [IDEA Project](Solutions/LongestCommonSubsequence)

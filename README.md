@@ -59,6 +59,8 @@
 
 [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/): [IDEA Project](Solutions/StrongPasswordChecker)
 
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [IDEA Project](Solutions/AddTwoNumbersII)
+
 ## 501-1000
 
 [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/): [IDEA Project](Solutions/MinimumAbsoluteDifferenceinBST)

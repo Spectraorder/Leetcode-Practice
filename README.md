@@ -39,6 +39,8 @@
 
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/): [IDEA Project](Solutions/SingleNumberII)
 
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/): [IDEA Project](Solutions/LRUCache)
+
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/): [IDEA Project](Solutions/RotateArray)
 
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/): [IDEA Project](Solutions/CourseSchedule)

@@ -61,6 +61,8 @@
 
 [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/): [IDEA Project](Solutions/StrongPasswordChecker)
 
+[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/): [IDEA Project](Solutions/NonOverlappingIntervals)
+
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [IDEA Project](Solutions/AddTwoNumbersII)
 
 ## 501-1000

@@ -77,6 +77,8 @@
 
 [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/): [IDEA Project](Solutions/MyCalendarII)
 
+[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/): [IDEA Project](Solutions/AsteroidCollision)
+
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/): [IDEA Project](Solutions/FindSmallestLetterGreaterThanTarget)
 
 [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/): [IDEA Project](Solutions/FindEventualSafeStates)

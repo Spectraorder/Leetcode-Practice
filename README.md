@@ -71,6 +71,8 @@
 
 [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/): [IDEA Project](Solutions/NumberofProvinces)
 
+[673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/): [IDEA Project](Solutions/NumberofLongestIncreasingSubsequence)
+
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/): [IDEA Project](Solutions/BestTimetoBuyandSellStockwithTransactionFee)
 
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)

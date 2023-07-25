@@ -87,6 +87,8 @@
 
 [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/): [IDEA Project](Solutions/FindEventualSafeStates)
 
+[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/): [IDEA Project](Solutions/PeakIndexinaMountainArray)
+
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/): [IDEA Project](Solutions/BuddyStrings)
 
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/): [IDEA Project](Solutions/AllNodesDistanceKinBinaryTree)

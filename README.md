@@ -65,6 +65,8 @@
 
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [IDEA Project](Solutions/AddTwoNumbersII)
 
+[486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/): [IDEA Project](Solutions/PredicttheWinner)
+
 ## 501-1000
 
 [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/): [IDEA Project](Solutions/MinimumAbsoluteDifferenceinBST)

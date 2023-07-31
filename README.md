@@ -77,6 +77,8 @@
 
 [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/): [IDEA Project](Solutions/KnightProbabilityinChessboard)
 
+[712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/): [IDEA Project](Solutions/MinimumASCIIDeleteSumforTwoStrings)
+
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/): [IDEA Project](Solutions/BestTimetoBuyandSellStockwithTransactionFee)
 
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)

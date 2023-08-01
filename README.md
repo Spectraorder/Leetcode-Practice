@@ -33,6 +33,8 @@
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)
 
+[77. Combinations](https://leetcode.com/problems/combinations/): [IDEA Project](Solutions/Combinations)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150): [IDEA Project](Solutions/MergeSortedArray)
 
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/): [IDEA Project](Solutions/MinimumDepthofBinaryTree)

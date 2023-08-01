@@ -10,7 +10,6 @@ public class MinimumASCIIDeleteSumforTwoStrings {
         String s1 = "delete", s2 = "leet";
         System.out.println(minimumDeleteSum(s1, s2));
     }
-
     public static int minimumDeleteSum(String s1, String s2) {
         int m = s1.length(), n = s2.length();
         int[][] computeCost = new int[m + 1][n + 1];

@@ -17,6 +17,8 @@
 
 [15. 3Sum](https://leetcode.com/problems/3sum/): [IDEA Project](Solutions/ThreeSum)
 
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/): [IDEA Project](Solutions/LetterCombinationsofaPhoneNumber)
+
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [IDEA Project](Solutions/ValidParentheses)
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [IDEA Project](Solutions/RemoveDuplicatesfromSortedArray)

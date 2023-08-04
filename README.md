@@ -45,6 +45,8 @@
 
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/): [IDEA Project](Solutions/SingleNumberII)
 
+[139. Word Break](https://leetcode.com/problems/word-break/): [IDEA Project](Solutions/WordBreak)
+
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/): [IDEA Project](Solutions/LRUCache)
 
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/): [IDEA Project](Solutions/RotateArray)

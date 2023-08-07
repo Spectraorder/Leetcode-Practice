@@ -37,6 +37,8 @@
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)
 
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/): [IDEA Project](Solutions/Searcha2DMatrix)
+
 [77. Combinations](https://leetcode.com/problems/combinations/): [IDEA Project](Solutions/Combinations)
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150): [IDEA Project](Solutions/MergeSortedArray)

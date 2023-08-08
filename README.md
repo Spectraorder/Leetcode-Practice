@@ -23,6 +23,8 @@
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): [IDEA Project](Solutions/RemoveDuplicatesfromSortedArray)
 
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/): [IDEA Project](Solutions/SearchinRotatedSortedArray)
+
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/): [IDEA Project](Solutions/SearchInsertPosition)
 
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/): [IDEA Project](Solutions/ValidSudoku)

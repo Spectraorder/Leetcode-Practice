@@ -197,11 +197,13 @@
 
 [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/): [IDEA Project](Solutions/FairDistributionofCookies)
 
-[2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/): [IDEA Project](Solutions/EqualRowandColumnPairs)
-
 [2328. Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/): [IDEA Project](Solutions/NumberofIncreasingPathsinaGrid)
 
+[2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/): [IDEA Project](Solutions/EqualRowandColumnPairs)
+
 [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/): [IDEA Project](Solutions/LongestCycleinaGraph)
+
+[2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/): [IDEA Project](Solutions/CheckifThereisaValidPartitionForTheArray)
 
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/): [IDEA Project](Solutions/OptimalPartitionofString)
 

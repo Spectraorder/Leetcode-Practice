@@ -47,6 +47,8 @@
 
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [IDEA Project](Solutions/SearchinRotatedSortedArrayII)
 
+[86. Partition List](https://leetcode.com/problems/partition-list/): [IDEA Project](Solutions/PartitionList)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150): [IDEA Project](Solutions/MergeSortedArray)
 
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/): [IDEA Project](Solutions/MinimumDepthofBinaryTree)

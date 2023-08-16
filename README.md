@@ -69,6 +69,8 @@
 
 [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/): [IDEA Project](Solutions/SummaryRanges)
 
+[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [IDEA Project](Solutions/SlidingWindowMaximum)
+
 [268. Missing Number](https://leetcode.com/problems/missing-number/): [IDEA Project](Solutions/MissingNumber)
 
 [274. H-Index](https://leetcode.com/problems/h-index/): [IDEA Project](Solutions/HIndex)

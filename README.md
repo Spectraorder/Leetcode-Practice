@@ -95,6 +95,8 @@
 
 [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/): [IDEA Project](Solutions/MinimumAbsoluteDifferenceinBST)
 
+[542. 01 Matrix](https://leetcode.com/problems/01-matrix/): [IDEA Project](Solutions/ZeroOneMatrix)
+
 [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/): [IDEA Project](Solutions/NumberofProvinces)
 
 [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/): [IDEA Project](Solutions/NumberofLongestIncreasingSubsequence)

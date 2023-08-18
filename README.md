@@ -179,6 +179,8 @@
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)
 
+[1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/): [IDEA Project](Solutions/MaximalNetworkRank)
+
 [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/): [IDEA Project](Solutions/WidestVerticalAreaBetweenTwoPointsContainingNoPoints)
 
 [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/): [IDEA Project](Solutions/FindtheHighestAltitude)

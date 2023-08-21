@@ -47,6 +47,8 @@
 
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [IDEA Project](Solutions/SearchinRotatedSortedArrayII)
 
+[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/): [IDEA Project](Solutions/LargestRectangleinHistogram)
+
 [86. Partition List](https://leetcode.com/problems/partition-list/): [IDEA Project](Solutions/PartitionList)
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150): [IDEA Project](Solutions/MergeSortedArray)

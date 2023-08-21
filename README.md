@@ -87,6 +87,8 @@
 
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [IDEA Project](Solutions/AddTwoNumbersII)
 
+[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/): [IDEA Project](Solutions/RepeatedSubstringPattern)
+
 [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/): [IDEA Project](Solutions/PredicttheWinner)
 
 ## 501-1000

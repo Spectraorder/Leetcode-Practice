@@ -61,6 +61,8 @@
 
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/): [IDEA Project](Solutions/LRUCache)
 
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/): [IDEA Project](Solutions/ExcelSheetColumnTitle)
+
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/): [IDEA Project](Solutions/RotateArray)
 
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/): [IDEA Project](Solutions/CourseSchedule)

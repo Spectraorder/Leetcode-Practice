@@ -107,6 +107,8 @@
 
 [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/): [IDEA Project](Solutions/NumberofProvinces)
 
+[646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/): [IDEA Project](Solutions/MaximumLengthofPairChain)
+
 [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/): [IDEA Project](Solutions/NumberofLongestIncreasingSubsequence)
 
 [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/): [IDEA Project](Solutions/KnightProbabilityinChessboard)

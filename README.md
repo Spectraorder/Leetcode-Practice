@@ -73,6 +73,8 @@
 
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/): [IDEA Project](Solutions/KthLargestElementinanArray)
 
+[228. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/): [IDEA Project](Solutions/ImplementStackusingQueues)
+
 [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/): [IDEA Project](Solutions/SummaryRanges)
 
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [IDEA Project](Solutions/SlidingWindowMaximum)

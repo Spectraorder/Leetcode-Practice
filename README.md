@@ -233,6 +233,8 @@
 
 [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/): [IDEA Project](Solutions/TotalCosttoHireKWorkers)
 
+[2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/): [IDEA Project](Solutions/MinimumPenaltyforaShop)
+
 ## 2501-3000
 
 [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/): [IDEA Project](Solutions/PutMarblesinBags)

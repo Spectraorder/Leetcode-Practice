@@ -37,6 +37,8 @@
 
 [61. Rotate List](https://leetcode.com/problems/rotate-list/): [IDEA Project](Solutions/RotateList)
 
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/): [IDEA Project](Solutions/UniquePaths)
+
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/): [IDEA Project](Solutions/UniquePathsII)
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)

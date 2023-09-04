@@ -63,6 +63,8 @@
 
 [139. Word Break](https://leetcode.com/problems/word-break/): [IDEA Project](Solutions/WordBreak)
 
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/): [IDEA Project](Solutions/LinkedListCycle)
+
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/): [IDEA Project](Solutions/LRUCache)
 
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/): [IDEA Project](Solutions/ExcelSheetColumnTitle)

@@ -61,7 +61,7 @@
 
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/): [IDEA Project](Solutions/SingleNumberII)
 
-[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/): [IDEA Project](Solutions/WordBreak)
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/): [IDEA Project](Solutions/CopyListwithRandomPointer)
 
 [139. Word Break](https://leetcode.com/problems/word-break/): [IDEA Project](Solutions/WordBreak)
 

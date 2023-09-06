@@ -129,6 +129,8 @@
 
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
+[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/): [IDEA Project](Solutions/SplitLinkedListinParts)
+
 [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/): [IDEA Project](Solutions/MyCalendarII)
 
 [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/): [IDEA Project](Solutions/AsteroidCollision)

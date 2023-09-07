@@ -55,6 +55,8 @@
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150): [IDEA Project](Solutions/MergeSortedArray)
 
+[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/): [IDEA Project](Solutions/ReverseLinkedListII)
+
 [97. Interleaving String](https://leetcode.com/problems/interleaving-string/): [IDEA Project](Solutions/InterleavingString)
 
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/): [IDEA Project](Solutions/MinimumDepthofBinaryTree)

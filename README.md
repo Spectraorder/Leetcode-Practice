@@ -183,6 +183,8 @@
 
 [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/): [IDEA Project](Solutions/CountNegativeNumbersinaSortedMatrix)
 
+[1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/): [IDEA Project](Solutions/CountAllValidPickupandDeliveryOptions)
+
 [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/): [IDEA Project](Solutions/TimeNeededtoInformAllEmployees)
 
 [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/): [IDEA Project](Solutions/DesignUndergroundSystem)

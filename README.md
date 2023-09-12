@@ -213,6 +213,8 @@
 
 [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/): [IDEA Project](Solutions/WidestVerticalAreaBetweenTwoPointsContainingNoPoints)
 
+[1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/): [IDEA Project](Solutions/MinimumDeletionstoMakeCharacterFrequenciesUnique)
+
 [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/): [IDEA Project](Solutions/FindtheHighestAltitude)
 
 [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/): [IDEA Project](Solutions/MaximumAbsoluteSumofAnySubarray)

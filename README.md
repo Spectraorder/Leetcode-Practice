@@ -183,6 +183,8 @@
 
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/): [IDEA Project](Solutions/MinimumFlipstoMakeaORbEqualtoc)
 
+[1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/): [IDEA Project](Solutions/TheKWeakestRowsinaMatrix)
+
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/): [IDEA Project](Solutions/MaximumProductofSplittedBinaryTree)
 
 [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/): [IDEA Project](Solutions/CountNegativeNumbersinaSortedMatrix)

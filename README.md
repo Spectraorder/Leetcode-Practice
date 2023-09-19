@@ -55,9 +55,15 @@
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150): [IDEA Project](Solutions/MergeSortedArray)
 
+[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/): [IDEA Project](Solutions/ReverseLinkedListII)
+
 [97. Interleaving String](https://leetcode.com/problems/interleaving-string/): [IDEA Project](Solutions/InterleavingString)
 
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/): [IDEA Project](Solutions/MinimumDepthofBinaryTree)
+
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/): [IDEA Project](Solutions/PascalsTriangle)
+
+[135. Candy](https://leetcode.com/problems/candy/): [IDEA Project](Solutions/Candy)
 
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/): [IDEA Project](Solutions/SingleNumberII)
 
@@ -131,6 +137,8 @@
 
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/): [IDEA Project](Solutions/LongestWordinDictionary)
 
+[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/): [IDEA Project](Solutions/SplitLinkedListinParts)
+
 [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/): [IDEA Project](Solutions/MyCalendarII)
 
 [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/): [IDEA Project](Solutions/AsteroidCollision)
@@ -173,11 +181,17 @@
 
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/): [IDEA Project](Solutions/CheckIfItIsaStraightLine)
 
+[1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/): [IDEA Project](Solutions/GroupthePeopleGiventheGroupSizeTheyBelongTo)
+
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/): [IDEA Project](Solutions/MinimumFlipstoMakeaORbEqualtoc)
+
+[1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/): [IDEA Project](Solutions/TheKWeakestRowsinaMatrix)
 
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/): [IDEA Project](Solutions/MaximumProductofSplittedBinaryTree)
 
 [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/): [IDEA Project](Solutions/CountNegativeNumbersinaSortedMatrix)
+
+[1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/): [IDEA Project](Solutions/CountAllValidPickupandDeliveryOptions)
 
 [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/): [IDEA Project](Solutions/TimeNeededtoInformAllEmployees)
 
@@ -204,6 +218,8 @@
 [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/): [IDEA Project](Solutions/MaximalNetworkRank)
 
 [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/): [IDEA Project](Solutions/WidestVerticalAreaBetweenTwoPointsContainingNoPoints)
+
+[1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/): [IDEA Project](Solutions/MinimumDeletionstoMakeCharacterFrequenciesUnique)
 
 [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/): [IDEA Project](Solutions/FindtheHighestAltitude)
 

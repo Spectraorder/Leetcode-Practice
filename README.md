@@ -95,7 +95,7 @@
 
 [274. H-Index](https://leetcode.com/problems/h-index/): [IDEA Project](Solutions/HIndex)
 
-[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/): [IDEA Project](Solutions/MissingNumber)
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/): [IDEA Project](Solutions/FindtheDuplicateNumber)
 
 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): [IDEA Project](Solutions/RangeSumQueryImmutable)
 

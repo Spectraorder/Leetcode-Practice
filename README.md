@@ -103,6 +103,8 @@
 
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/): [IDEA Project](Solutions/InsertDeleteGetRandomO1)
 
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/): [IDEA Project](Solutions/IsSubsequence)
+
 [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/): [IDEA Project](Solutions/StrongPasswordChecker)
 
 [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/): [IDEA Project](Solutions/NonOverlappingIntervals)

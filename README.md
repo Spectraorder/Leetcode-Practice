@@ -99,7 +99,7 @@
 
 [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): [IDEA Project](Solutions/RangeSumQueryImmutable)
 
-[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/): [IDEA Project](Solutions/RangeSumQueryImmutable)
+[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/): [IDEA Project](Solutions/RemoveDuplicateLetters)
 
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/): [IDEA Project](Solutions/CountingBits)
 

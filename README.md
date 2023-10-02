@@ -243,6 +243,8 @@
 
 [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/): [IDEA Project](Solutions/MaximizetheConfusionofanExam)
 
+[2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/): [IDEA Project](Solutions/RemoveColoredPiecesifBothNeighborsaretheSameColor)
+
 [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/): [IDEA Project](Solutions/KRadiusSubarrayAverages)
 
 [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/): [IDEA Project](Solutions/DetonatetheMaximumBombs)

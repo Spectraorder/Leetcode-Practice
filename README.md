@@ -153,6 +153,8 @@
 
 [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/): [IDEA Project](Solutions/FindEventualSafeStates)
 
+[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/): [IDEA Project](Solutions/BackspaceStringCompare)
+
 [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/): [IDEA Project](Solutions/PeakIndexinaMountainArray)
 
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/): [IDEA Project](Solutions/BuddyStrings)

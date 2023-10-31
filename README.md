@@ -271,6 +271,8 @@
 
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/): [IDEA Project](Solutions/OptimalPartitionofString)
 
+[2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/): [IDEA Project](Solutions/FindTheOriginalArrayofPrefixXor)
+
 [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/): [IDEA Project](Solutions/MinimumCosttoMakeArrayEqual)
 
 [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/): [IDEA Project](Solutions/TotalCosttoHireKWorkers)

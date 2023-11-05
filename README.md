@@ -219,6 +219,8 @@
 
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/): [IDEA Project](Solutions/NumberofGoodPairs)
 
+[1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/): [IDEA Project](Solutions/FindtheWinnerofanArrayGame)
+
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
 [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/): [IDEA Project](Solutions/NumberofWaystoReorderArraytoGetSameBST)

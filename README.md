@@ -245,6 +245,8 @@
 
 [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/): [IDEA Project](Solutions/MinimumSpeedtoArriveonTime)
 
+[1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/): [IDEA Project](Solutions/LastDayWhereYouCanStillCross)
+
 [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/): [IDEA Project](Solutions/LastDayWhereYouCanStillCross)
 
 ## 2001-2500

@@ -16,9 +16,5 @@ public class DetermineifaCellIsReachableataGivenTime {
             return t > 1 || t == 0;
         }
         return t >= Math.max(Math.abs(fx-sx), Math.abs(fy-sy));
-//        if(t <= Math.abs(fx-sx) + Math.abs(fy-sy)){
-//            return t >= Math.max(Math.abs(fx-sx), Math.abs(fy-sy));
-//        }
-//        return t > Math.abs(fx-sx) + Math.abs(fy-sy)+1;
     }
 }

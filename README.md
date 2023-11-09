@@ -241,6 +241,8 @@
 
 [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/): [IDEA Project](Solutions/MaximumAbsoluteSumofAnySubarray)
 
+[1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/): [IDEA Project](Solutions/CountNumberofHomogenousSubstrings)
+
 [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/): [IDEA Project](Solutions/MaximumValueataGivenIndexinaBoundedArray)
 
 [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/): [IDEA Project](Solutions/MinimumSpeedtoArriveonTime)

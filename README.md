@@ -245,6 +245,8 @@
 
 [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/): [IDEA Project](Solutions/MaximumValueataGivenIndexinaBoundedArray)
 
+[1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/): [IDEA Project](Solutions/MaximumElementAfterDecreasingandRearranging)
+
 [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/): [IDEA Project](Solutions/MinimumSpeedtoArriveonTime)
 
 [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/): [IDEA Project](Solutions/EliminateMaximumNumberofMonsters)

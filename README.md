@@ -253,6 +253,8 @@
 
 [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/): [IDEA Project](Solutions/LastDayWhereYouCanStillCross)
 
+[1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/): [IDEA Project](Solutions/FindUniqueBinaryString)
+
 ## 2001-2500
 
 [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/): [IDEA Project](Solutions/MaximizetheConfusionofanExam)

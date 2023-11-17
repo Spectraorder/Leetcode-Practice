@@ -249,6 +249,8 @@
 
 [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/): [IDEA Project](Solutions/MinimumSpeedtoArriveonTime)
 
+[1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/): [IDEA Project](Solutions/MinimizeMaximumPairSuminArray)
+
 [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/): [IDEA Project](Solutions/EliminateMaximumNumberofMonsters)
 
 [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/): [IDEA Project](Solutions/LastDayWhereYouCanStillCross)

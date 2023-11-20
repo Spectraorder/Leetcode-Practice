@@ -283,6 +283,8 @@
 
 [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/): [IDEA Project](Solutions/CheckifThereisaValidPartitionForTheArray)
 
+[2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/): [IDEA Project](Solutions/MinimumAmountofTimetoCollectGarbage)
+
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/): [IDEA Project](Solutions/OptimalPartitionofString)
 
 [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/): [IDEA Project](Solutions/FindTheOriginalArrayofPrefixXor)

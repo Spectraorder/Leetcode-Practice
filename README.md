@@ -223,6 +223,8 @@
 
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)
 
+[1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/): [IDEA Project](Solutions/MaximumNumberofCoinsYouCanGet)
+
 [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/): [IDEA Project](Solutions/NumberofWaystoReorderArraytoGetSameBST)
 
 [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/): [IDEA Project](Solutions/CountAllPossibleRoutes)

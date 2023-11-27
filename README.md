@@ -169,6 +169,8 @@
 
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array/): [IDEA Project](Solutions/SortanArray)
 
+[935. Knight Dialer](https://leetcode.com/problems/knight-dialer/): [IDEA Project](Solutions/KnightDialer)
+
 [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/): [IDEA Project](Solutions/TallestBillboard)
 
 ## 1001-1500

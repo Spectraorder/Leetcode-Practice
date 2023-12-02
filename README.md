@@ -189,6 +189,8 @@
 
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/): [IDEA Project](Solutions/SnapshotArray)
 
+[1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/): [IDEA Project](Solutions/FindWordsThatCanBeFormedbyCharacters)
+
 [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/): [IDEA Project](Solutions/MakeArrayStrictlyIncreasing)
 
 [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/): [IDEA Project](Solutions/LongestArithmeticSubsequenceofGivenDifference)

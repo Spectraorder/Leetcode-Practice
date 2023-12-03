@@ -197,6 +197,8 @@
 
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/): [IDEA Project](Solutions/CheckIfItIsaStraightLine)
 
+[1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/): [IDEA Project](Solutions/MinimumTimeVisitingAllPoints)
+
 [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/): [IDEA Project](Solutions/GroupthePeopleGiventheGroupSizeTheyBelongTo)
 
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/): [IDEA Project](Solutions/MinimumFlipstoMakeaORbEqualtoc)

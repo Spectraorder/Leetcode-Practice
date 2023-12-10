@@ -163,6 +163,8 @@
 
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/): [IDEA Project](Solutions/AllNodesDistanceKinBinaryTree)
 
+[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/): [IDEA Project](Solutions/TransposeMatrix)
+
 [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/): [IDEA Project](Solutions/DecodedStringatIndex)
 
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/): [IDEA Project](Solutions/MonotonicArray)

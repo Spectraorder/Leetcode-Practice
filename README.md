@@ -93,6 +93,8 @@
 
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/): [IDEA Project](Solutions/SlidingWindowMaximum)
 
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/): [IDEA Project](Solutions/ValidAnagram)
+
 [268. Missing Number](https://leetcode.com/problems/missing-number/): [IDEA Project](Solutions/MissingNumber)
 
 [274. H-Index](https://leetcode.com/problems/h-index/): [IDEA Project](Solutions/HIndex)

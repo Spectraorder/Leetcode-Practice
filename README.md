@@ -193,6 +193,8 @@
 
 [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/): [IDEA Project](Solutions/SnapshotArray)
 
+[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/): [IDEA Project](Solutions/NumberofDiceRollsWithTargetSum)
+
 [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/): [IDEA Project](Solutions/FindWordsThatCanBeFormedbyCharacters)
 
 [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/): [IDEA Project](Solutions/MakeArrayStrictlyIncreasing)

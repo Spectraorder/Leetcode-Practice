@@ -241,6 +241,8 @@
 
 [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/): [IDEA Project](Solutions/CountAllPossibleRoutes)
 
+[1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/): [IDEA Project](Solutions/MinimumTimetoMakeRopeColorful)
+
 [1599. Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/): [IDEA Project](Solutions/MaximumProfitofOperatingaCentennialWheel)
 
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/): [IDEA Project](Solutions/DesignParkingSystem)

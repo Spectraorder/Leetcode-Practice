@@ -231,6 +231,8 @@
 
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/): [IDEA Project](Solutions/NumberofGoodPairs)
 
+[1531. String Compression II](https://leetcode.com/problems/string-compression-ii/): [IDEA Project](Solutions/StringCompressionII)
+
 [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/): [IDEA Project](Solutions/FindtheWinnerofanArrayGame)
 
 [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/): [IDEA Project](Solutions/MinimumCosttoCutaStick)

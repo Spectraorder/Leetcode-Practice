@@ -169,6 +169,8 @@
 
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/): [IDEA Project](Solutions/TransposeMatrix)
 
+[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/): [IDEA Project](Solutions/LeafSimilarTrees)
+
 [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/): [IDEA Project](Solutions/DecodedStringatIndex)
 
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/): [IDEA Project](Solutions/MonotonicArray)

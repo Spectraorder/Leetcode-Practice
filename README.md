@@ -217,6 +217,8 @@
 
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/): [IDEA Project](Solutions/MaximumProductofSplittedBinaryTree)
 
+[1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/): [IDEA Project](Solutions/MinimumNumberofStepstoMakeTwoStringsAnagram)
+
 [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/): [IDEA Project](Solutions/CountNegativeNumbersinaSortedMatrix)
 
 [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/): [IDEA Project](Solutions/CountAllValidPickupandDeliveryOptions)

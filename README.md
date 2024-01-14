@@ -261,6 +261,8 @@
 
 [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/): [IDEA Project](Solutions/MinimumDeletionstoMakeCharacterFrequenciesUnique)
 
+[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/): [IDEA Project](Solutions/DetermineifTwoStringsAreClose)
+
 [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/): [IDEA Project](Solutions/DetermineifStringHalvesAreAlike)
 
 [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/): [IDEA Project](Solutions/FindtheHighestAltitude)

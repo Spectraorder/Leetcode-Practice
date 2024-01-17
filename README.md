@@ -203,6 +203,8 @@
 
 [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/): [IDEA Project](Solutions/MakeArrayStrictlyIncreasing)
 
+[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/): [IDEA Project](Solutions/UniqueNumberofOccurrences)
+
 [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/): [IDEA Project](Solutions/LongestArithmeticSubsequenceofGivenDifference)
 
 [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/): [IDEA Project](Solutions/CheckIfItIsaStraightLine)

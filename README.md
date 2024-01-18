@@ -41,6 +41,8 @@
 
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/): [IDEA Project](Solutions/UniquePathsII)
 
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/): [IDEA Project](Solutions/ClimbingStairs)
+
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/): [IDEA Project](Solutions/SetMatrixZeroes)
 
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/): [IDEA Project](Solutions/Searcha2DMatrix)

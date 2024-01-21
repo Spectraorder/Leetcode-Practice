@@ -81,6 +81,8 @@
 
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/): [IDEA Project](Solutions/RotateArray)
 
+[198. House Robber](https://leetcode.com/problems/house-robber/): [IDEA Project](Solutions/HouseRobber)
+
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/): [IDEA Project](Solutions/CourseSchedule)
 
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [IDEA Project](Solutions/MinimumSizeSubarraySum)

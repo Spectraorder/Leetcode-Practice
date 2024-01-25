@@ -269,6 +269,8 @@
 
 [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/): [IDEA Project](Solutions/MinimumDeletionstoMakeCharacterFrequenciesUnique)
 
+[1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/): [IDEA Project](Solutions/MinimumDeletionstoMakeStringBalanced)
+
 [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/): [IDEA Project](Solutions/DetermineifTwoStringsAreClose)
 
 [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/): [IDEA Project](Solutions/DetermineifStringHalvesAreAlike)

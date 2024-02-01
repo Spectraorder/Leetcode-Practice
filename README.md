@@ -360,3 +360,5 @@
 [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/): [IDEA Project](Solutions/ExtraCharactersinaString)
 
 [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/): [IDEA Project](Solutions/DetermineifaCellIsReachableataGivenTime)
+
+[2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/): [IDEA Project](SSolutions/DivideArrayIntoArraysWithMaxDifference)

@@ -223,6 +223,8 @@
 
 [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/): [IDEA Project](Solutions/GroupthePeopleGiventheGroupSizeTheyBelongTo)
 
+[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/): [IDEA Project](Solutions/SequentialDigits)
+
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/): [IDEA Project](Solutions/MinimumFlipstoMakeaORbEqualtoc)
 
 [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/): [IDEA Project](Solutions/TheKWeakestRowsinaMatrix)

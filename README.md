@@ -47,6 +47,8 @@
 
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/): [IDEA Project](Solutions/Searcha2DMatrix)
 
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/): [IDEA Project](Solutions/MinimumWindowSubstring)
+
 [77. Combinations](https://leetcode.com/problems/combinations/): [IDEA Project](Solutions/Combinations)
 
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/): [IDEA Project](Solutions/SearchinRotatedSortedArrayII)

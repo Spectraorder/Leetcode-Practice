@@ -119,6 +119,8 @@
 
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/): [IDEA Project](Solutions/InsertDeleteGetRandomO1)
 
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/): [IDEA Project](Solutions/FirstUniqueCharacterinaString)
+
 [389. Find the Difference](https://leetcode.com/problems/find-the-difference/): [IDEA Project](Solutions/FindtheDifference)
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/): [IDEA Project](Solutions/IsSubsequence)

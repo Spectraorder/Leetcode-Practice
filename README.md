@@ -31,6 +31,8 @@
 
 [46. Permutations](https://leetcode.com/problems/permutations/): [IDEA Project](Solutions/Permutations)
 
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/): [IDEA Project](Solutions/GroupAnagrams)
+
 [55. Jump Game](https://leetcode.com/problems/jump-game/): [IDEA Project](Solutions/JumpGame)
 
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/): [IDEA Project](Solutions/LengthofLastWord)

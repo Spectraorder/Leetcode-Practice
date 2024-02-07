@@ -133,6 +133,8 @@
 
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/): [IDEA Project](Solutions/AddTwoNumbersII)
 
+[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/): [IDEA Project](Solutions/SortCharactersByFrequency)
+
 [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/): [IDEA Project](Solutions/AssignCookies)
 
 [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/): [IDEA Project](Solutions/RepeatedSubstringPattern)

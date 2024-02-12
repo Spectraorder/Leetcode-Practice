@@ -85,6 +85,8 @@
 
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/): [IDEA Project](Solutions/ExcelSheetColumnTitle)
 
+[169. Majority Element](https://leetcode.com/problems/majority-element/): [IDEA Project](Solutions/MajorityElement)
+
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/): [IDEA Project](Solutions/RotateArray)
 
 [198. House Robber](https://leetcode.com/problems/house-robber/): [IDEA Project](Solutions/HouseRobber)

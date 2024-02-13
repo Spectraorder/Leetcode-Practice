@@ -329,6 +329,8 @@
 
 [2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/): [IDEA Project](Solutions/WateringPlantsII)
 
+[2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/): [IDEA Project](Solutions/FindFirstPalindromicStringintheArray)
+
 [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/): [IDEA Project](Solutions/FindPlayersWithZeroorOneLosses)
 
 [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/): [IDEA Project](Solutions/CountUnguardedCellsintheGrid)

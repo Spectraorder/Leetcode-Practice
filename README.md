@@ -251,6 +251,8 @@
 
 [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/): [IDEA Project](Solutions/DesignUndergroundSystem)
 
+[1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/): [IDEA Project](Solutions/LeastNumberofUniqueIntegersafterKRemovals)
+
 [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/): [IDEA Project](Solutions/ThekthFactorofn)
 
 [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/): [IDEA Project](Solutions/LongestSubarrayof1sAfterDeletingOneElement)
@@ -375,4 +377,4 @@
 
 [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/): [IDEA Project](Solutions/DetermineifaCellIsReachableataGivenTime)
 
-[2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/): [IDEA Project](SSolutions/DivideArrayIntoArraysWithMaxDifference)
+[2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/): [IDEA Project](Solutions/DivideArrayIntoArraysWithMaxDifference)

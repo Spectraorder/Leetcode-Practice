@@ -201,6 +201,8 @@
 
 [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/): [IDEA Project](Solutions/TallestBillboard)
 
+[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/): [IDEA Project](Solutions/FindtheTownJudge)
+
 ## 1001-1500
 
 [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/): [IDEA Project](Solutions/LongestArithmeticSubsequence)

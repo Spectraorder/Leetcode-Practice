@@ -201,6 +201,8 @@
 
 [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/): [IDEA Project](Solutions/TallestBillboard)
 
+[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/): [IDEA Project](Solutions/SquaresofaSortedArray)
+
 [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/): [IDEA Project](Solutions/FindtheTownJudge)
 
 ## 1001-1500

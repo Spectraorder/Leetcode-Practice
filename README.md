@@ -1,7 +1,7 @@
 # LeetCode Practice
 **Problems are shown in problem set order:**
 
-## [**1-500**](#1-500)  [**501-1000**](#501-1000)  [**1001-1500**](#1001-1500)  [**1501-2000**](#1501-2000)  [**2001-2500**](#2001-2500)  [**2501-3000**](#2501-3000) 
+## [**1-500**](#1-500)  [**501-1000**](#501-1000)  [**1001-1500**](#1001-1500)  [**1501-2000**](#1501-2000)  [**2001-2500**](#2001-2500)  [**2501-3000**](#2501-3000) [**3001-3500**](#3001-3500)
 
 ## 1-500
 
@@ -382,3 +382,7 @@
 [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/): [IDEA Project](Solutions/DetermineifaCellIsReachableataGivenTime)
 
 [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/): [IDEA Project](Solutions/DivideArrayIntoArraysWithMaxDifference)
+
+## 3001-3500
+
+[3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/): [IDEA Project](Solutions/CountElementsWithMaximumFrequency)

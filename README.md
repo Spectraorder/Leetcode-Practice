@@ -179,6 +179,8 @@
 
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/): [IDEA Project](Solutions/FindSmallestLetterGreaterThanTarget)
 
+[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/): [IDEA Project](Solutions/CustomSortString)
+
 [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/): [IDEA Project](Solutions/FindEventualSafeStates)
 
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/): [IDEA Project](Solutions/BackspaceStringCompare)

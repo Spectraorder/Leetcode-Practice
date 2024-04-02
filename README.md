@@ -91,6 +91,8 @@
 
 [198. House Robber](https://leetcode.com/problems/house-robber/): [IDEA Project](Solutions/HouseRobber)
 
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/): [IDEA Project](Solutions/IsomorphicStrings)
+
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/): [IDEA Project](Solutions/CourseSchedule)
 
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): [IDEA Project](Solutions/MinimumSizeSubarraySum)

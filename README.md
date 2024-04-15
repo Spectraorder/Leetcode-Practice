@@ -69,6 +69,8 @@
 
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/): [IDEA Project](Solutions/PascalsTriangle)
 
+[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/): [IDEA Project](Solutions/SumRoottoLeafNumbers)
+
 [135. Candy](https://leetcode.com/problems/candy/): [IDEA Project](Solutions/Candy)
 
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/): [IDEA Project](Solutions/SingleNumberII)
